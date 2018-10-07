@@ -1,0 +1,7 @@
+|andOrAndGate
+in1 => X.IN0
+in2 => X.IN1
+in3 => X.IN1
+X << X.DB_MAX_OUTPUT_PORT_TYPE
+
+
